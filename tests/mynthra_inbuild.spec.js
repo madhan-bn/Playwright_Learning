@@ -17,4 +17,5 @@ test('Find least price T-shirt', async ({ page }) => {
     const minPrice = Math.min(...numericPrices);
 
     console.log('Least Price:', minPrice);
+    console.log("Git learning");
 });
